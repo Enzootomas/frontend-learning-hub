@@ -95,7 +95,7 @@ function ListaResultados({ resultados }) {
 ## 🔗 Materiais, Projetos e Referências
 
 - 📄 **Material oficial da aula (PDF):** [Aula-08-Projeto-React.pdf](./Aula-08-Projeto-React.pdf)
-- 💻 **Projeto prático desenvolvido (TaskFlow React):** [🔗 Repositório](https://github.com/Enzootomas/react-taskflow)
+- 💻 **Projeto prático desenvolvido (TaskFlow React):** [🔗 Repositório](https://github.com/Enzootomas/react-taskflow) | [🌐 Ver online](https://react-taskflow-tau.vercel.app)
 - 📚 **Materiais complementares do professor:**
   - [Revisão JavaScript — aula-javascript](https://github.com/deivisontakatu/aula-javascript)
   - [Conceitos React — aula-react](https://github.com/deivisontakatu/aula-react)

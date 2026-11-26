@@ -40,4 +40,4 @@ Na parte prática, foi proposta a criação de uma API com Express, publicação
 - 📄 **Material oficial da aula (PDF):** [Aula-04-Consumindo-APIs-no-Front-end.pdf](./Aula-04-Consumindo-APIs-no-Front-end.pdf)
 - 💻 **Atividade 01 — Análise de 10 projetos com API:** [🔗 Repositório](https://github.com/Enzootomas/frontend-api-projects-analysis)
 - 💻 **Atividade 02 (Back-end Express):** [🔗 Repositório](https://github.com/Enzootomas/datetime-api-express)
-- 💻 **Atividade 02 (Front-end React):** [🔗 Repositório](https://github.com/Enzootomas/datetime-frontend)
+- 💻 **Atividade 02 (Front-end React):** [🔗 Repositório](https://github.com/Enzootomas/datetime-frontend) | [🌐 Ver online](https://datetime-frontend-rose.vercel.app)

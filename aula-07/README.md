@@ -98,8 +98,8 @@ Um **Framework CSS** oferece um sistema padronizado de layout, tokens visuais e 
 ## 🔗 Materiais, Projetos e Referências
 
 - 📄 **Material oficial da aula (PDF):** [Aula-07-Frameworks-CSS.pdf](./Aula-07-Frameworks-CSS.pdf)
-- 💻 **Projeto prático — Atividade 01 (CSS Externo, Box Model & Flexbox):** [🔗 Repositório](https://github.com/Enzootomas/projeto-css-flexbox)
-- 💻 **Projeto prático — Atividade 02 (Tailwind CSS v4 — 45+ classes):** [🔗 Repositório](https://github.com/Enzootomas/projeto-tailwind-css)
+- 💻 **Projeto prático — Atividade 01 (CSS Externo, Box Model & Flexbox):** [🔗 Repositório](https://github.com/Enzootomas/projeto-css-flexbox) | [🌐 Ver online](https://projeto-css-flexbox.vercel.app)
+- 💻 **Projeto prático — Atividade 02 (Tailwind CSS v4 — 45+ classes):** [🔗 Repositório](https://github.com/Enzootomas/projeto-tailwind-css) | [🌐 Ver online](https://projeto-tailwind-css.vercel.app)
 - 📚 **Materiais de referência do professor e documentação oficial:**
   - [Repositório complementar — aula-css](https://github.com/deivisontakatu/aula-css)
   - [Repositório complementar — aula-tailwind](https://github.com/deivisontakatu/aula-tailwind)

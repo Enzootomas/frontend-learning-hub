@@ -123,7 +123,7 @@ app.post("/api/notes", (req, res) => {
 
 - 📄 **Material oficial da aula (PDF):** [Aula 05 - Criando APIs para o Front-end.pdf](./Aula%2005%20-%20Criando%20APIs%20para%20o%20Front-end.pdf)
 - 📝 **Resumo complementar preservado:** [resumo.md](./resumo.md)
-- 💻 **Projeto prático desenvolvido (Fullstack React + Express + Coleção Postman):** [🔗 Repositório](https://github.com/Enzootomas/notes-crud-fullstack)
+- 💻 **Projeto prático desenvolvido (Fullstack React + Express + Coleção Postman):** [🔗 Repositório](https://github.com/Enzootomas/notes-crud-fullstack) | [🌐 Ver online](https://notes-crud-fullstack.vercel.app)
 - 📚 **Referências oficiais do professor:**
   - [Exemplo Back-end do Professor](https://github.com/deivisontakatu/exemplo-api-backend)
   - [Exemplo Front-end do Professor](https://github.com/deivisontakatu/exemplo-api-frontend)
