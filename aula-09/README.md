@@ -113,7 +113,8 @@ function DetalheTarefa() {
 ## 🔗 Materiais, Projetos e Referências
 
 - 📄 **Material oficial da aula (PDF):** [Aula-09-Projeto-React-02.pdf](./Aula-09-Projeto-React-02.pdf)
-- 💻 **Projeto prático desenvolvido (TaskFlow — 11 conceitos das Aulas 08 e 09):** [🔗 Enzootomas/react-taskflow](https://github.com/Enzootomas/react-taskflow) *(Build de produção validado; deploy na Vercel pendente de publicação manual)*
+- 💻 **Projeto prático desenvolvido (DevFeed React 02 — Hooks, API GET/POST e React Router):** [🔗 Repositório](https://github.com/Enzootomas/projeto-react-02)
+- 💻 **Projeto complementar integrado (TaskFlow React):** [🔗 Repositório](https://github.com/Enzootomas/react-taskflow)
 - 📚 **Materiais complementares do professor:**
   - [Conceitos React — aula-react](https://github.com/deivisontakatu/aula-react)
   - [Código de exemplo — projeto-react](https://github.com/deivisontakatu/projeto-react)
